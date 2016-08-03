@@ -9,4 +9,4 @@ npm install font-spider -g
 5. 修改好fonts.html后，然后双击运行compress.bat批处理文件，等批处理文件运行完成会自动消失，此时大功告成，其他三种格式的字体（eot、svg、woff）也随之诞生，并且被压缩。原ttf格式的字体文件被备份到了.font-spider文件夹中。
 6. 在浏览器打开fonts.html网页文件，你将看到自定义的字体样式。
 
-使用方法也可参照官网说明:[font-spider.org](font-spider.org)
+使用方法也可参照官网说明:[font-spider.org](http://font-spider.org)
